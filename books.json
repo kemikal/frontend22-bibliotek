@@ -1,0 +1,38 @@
+[
+  {
+    "bookId": 1,
+    "bookTitle": "Grattis",
+    "author": "Conny",
+    "pages": 200
+  },
+  {
+    "bookId": 2,
+    "bookTitle": "På",
+    "author": "Pelle",
+    "pages": 200
+  },
+  {
+    "bookId": 3,
+    "bookTitle": "Dig",
+    "author": "Anna",
+    "pages": 200
+  },
+  {
+    "bookId": 4,
+    "bookTitle": "Haha",
+    "author": "Herman",
+    "pages": 200
+  },
+  {
+    "bookTitle": "Allt om Express",
+    "author": "Janne",
+    "pages": 4999,
+    "bookId": 5
+  },
+  {
+    "bookTitle": "Snart dags för Lars",
+    "author": "Lars",
+    "pages": 48,
+    "bookId": 6
+  }
+]

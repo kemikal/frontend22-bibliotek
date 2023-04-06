@@ -1,0 +1,14 @@
+GET http://localhost:3000/books/
+
+###
+
+POST http://localhost:3000/books/
+Content-Type: application/json
+
+{
+    "bookTitle": "Snart dags för Lars",
+    "author": "Lars",
+    "pages": 48
+}
+
+###
